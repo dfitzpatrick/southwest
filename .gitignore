@@ -1,0 +1,7 @@
+*.py[co]
+
+*.db
+
+bin/*
+
+southwest/settings/dev.py
